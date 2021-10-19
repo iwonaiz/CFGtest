@@ -1,0 +1,1 @@
+print('Hi Iwona. This is a message from the outer space.')
